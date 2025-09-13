@@ -1,1 +1,114 @@
-# PORTFOLIO
+<!DOCTYPE html>
+<html>
+<header>
+  <h1>I'm Nandhini</h2>
+</header>
+
+  <header>
+    <h1>Coco player</h1>
+    <p>Professional Coco player</p>
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>Profile</h2>
+      <ul>
+        <li><strong>Full Name:</strong> Nandhini</li>
+        <li><strong>Born:</strong> March 13, 2006 (Atlanta, Georgia, USA)</li>
+        <li><strong>Residence:</strong> Delray Beach, Florida</li>
+        <li><strong>Height:</strong> 5 ft 9 in (1.75 m)</li>
+        <li><strong>Plays:</strong> Right-handed (two-handed backhand)</li>
+        <li><strong>Turned Pro:</strong> 2018</li>
+      </ul>
+    </section>
+    
+<section>
+  <h2>Achievements</h2>
+  <ul>
+    <li>🏆 US Open Singles Champion (2023)</li>
+    <li>🏅 French Open Doubles Champion (2024)</li>
+    <li>🥇 WTA Finals Singles Champion (2024)</li>
+    <li>📈 Highest Singles Ranking: No. 2 (June 2024)</li>
+    <li>🎯 Defeated Venus Williams at Wimbledon (2019)</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Certificates</h2>
+  <ul>
+    <li>Certificate of Excellence – USTA Junior Circuit</li>
+    <li>Grand Slam Winner Recognition – US Open 2023</li>
+    <li>WTA Sportsmanship Award – 2022</li>
+    <li>Olympic Participation Certificate – Tokyo 2021</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Practice Schedule</h2>
+  <table>
+    <tr>
+      <th>Day</th>
+      <th>Morning Session</th>
+      <th>Afternoon Session</th>
+    </tr>
+    <tr>
+      <td>Monday</td>
+      <td>Fitness & Conditioning</td>
+      <td>Serve Practice</td>
+    </tr>
+    <tr>
+      <td>Tuesday</td>
+      <td>Backhand Drills</td>
+      <td>Match Simulation</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>Forehand Technique</td>
+      <td>Strategy & Footwork</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>Endurance Training</td>
+      <td>Volley Practice</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>Serve & Return</td>
+      <td>Match Play</td>
+    </tr>
+  </table>
+</section>
+  <h2>Career Highlights</h2>
+  <ul>
+    <li>US Open Singles Champion (2023)</li>
+    <li>French Open Doubles Champion (2024)</li>
+    <li>WTA Finals Singles Champion (2024)</li>
+    <li>Highest Singles Ranking: No. 2 (June 2024)</li>
+    <li>Highest Doubles Ranking: No. 1 (August 2022)</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Endorsements</h2>
+  <ul>
+    <li>New Balance (Apparel & Footwear)</li>
+    <li>Head (Racquets)</li>
+    <li>Barilla (Food)</li>
+    <li>Rolex (Watches)</li>
+  </ul>
+</section>
+  
+  
+  <footer>
+    <footer style="background-color:#1e3d59; color:white; text-align:center; padding:20px;">
+      <p>Follow Coco on 
+    <p>Phone nunber:7865983320</p>
+    <p>Email id:nandhaini1917@mail.com</p>
+    <a href="https://www.instagram.com/cocogauff" style="color:#f1c40f;">Instagram</a> | 
+    <a href="https://twitter.com/CocoGauff" style="color:#f1c40f;">Twitter</a>
+  </p>
+        <p>&copy; 2025 Coco player Portfolio | All rights</p>
+    </footer>
+
+</body>
+</html>
